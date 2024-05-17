@@ -5,7 +5,7 @@ A new Flutter project Using Rest API.
 <img src="1.jpg" alt="Alt text" style="width:350px;height:650px;">
 <img src="2.jpg" alt="Alt text" style="width:350px;height:650px;">
 
-*Explanation:
+Explanation:
 *Dependencies: The http package is used to fetch data from a REST API.
 *Model Class: The Photo class represents the photo data.
 *Fetching Data: The fetchPhotos function fetches a list of photos from a REST API endpoint (https://jsonplaceholder.typicode.com/photos).
